@@ -2,6 +2,8 @@
 #include <stdbool.h>
 bool is_leap_year(int year);
 
+// wrote this programm to get more comfortable with pointer arithmetic
+
 int days_in_month[] = {0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
 
 bool is_leap_year (int year){
