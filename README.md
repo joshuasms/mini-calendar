@@ -1,3 +1,3 @@
-# miniature-octo-adventure
+# mini-calendar
 
-Some small programms I wrote to try out things
+A small programm I wrote to play around with pointers in C.
